@@ -19,7 +19,6 @@ public class AJYKQ38fel {
     }
     catch (Exception ee) {
       System.out.println("Hiba:" + (ee.getMessage());
-      }
-    }
-  }
+		}
+	}
 }
