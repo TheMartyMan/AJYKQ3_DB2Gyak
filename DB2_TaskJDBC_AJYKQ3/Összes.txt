@@ -1,10 +1,100 @@
-1;Harry Potter �s a b�lcsek k�ve;Chris Columbus;2001.12.16;753;null;null;null;null
-2;A Gy�r�k Ura: A Gy�r� Sz�vets�ge;Peter Jackson;2001.12.19;824;null;null;null;null
-3;Eredet;Christopher Nolan;2010.07.16;984;null;null;null;null
-4;Csillagok k�z�tt;Christopher Nolan;2014.10.26;532;null;null;null;null
-5;A k�r;Gore Verbinski;2002.10.18;421;null;null;null;null
-6;Viharsziget;Martin Scorsese;2010.02.13;562;null;null;null;null
-7;A t�gla;Martin Scorsese;2006.10.06;124;null;null;null;null
-8;Ponyvareg�ny;Quentin Tarantino;1994.10.14;531;null;null;null;null
-9;Isten v�rosa; Fernando Meirelles;2003.03.13;268;null;null;null;null
-10;�gy neveld a s�rk�nyodat;Chris Sanders;2010.03.25;430;null;null;null;null
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+2;A Gyűrűk Ura: A Gyűrű Szövetsége;Peter Jackson;2001.12.19;824;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+3;Eredet;Christopher Nolan;2010.07.16;984;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+3;Eredet;Christopher Nolan;2010.07.16;984;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+3;Eredet;Christopher Nolan;2010.07.16;984;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+3;Eredet;Christopher Nolan;2010.07.16;984;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+3;Eredet;Christopher Nolan;2010.07.16;984;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+3;Eredet;Christopher Nolan;2010.07.16;984;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+3;Eredet;Christopher Nolan;2010.07.16;984;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+3;Eredet;Christopher Nolan;2010.07.16;984;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+3;Eredet;Christopher Nolan;2010.07.16;984;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+3;Eredet;Christopher Nolan;2010.07.16;984;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+4;Csillagok között;Christopher Nolan;2014.10.26;532;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+4;Csillagok között;Christopher Nolan;2014.10.26;532;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+5;A kör;Gore Verbinski;2002.10.18;421;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+5;A kör;Gore Verbinski;2002.10.18;421;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+5;A kör;Gore Verbinski;2002.10.18;421;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+5;A kör;Gore Verbinski;2002.10.18;421;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+5;A kör;Gore Verbinski;2002.10.18;421;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+5;A kör;Gore Verbinski;2002.10.18;421;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+5;A kör;Gore Verbinski;2002.10.18;421;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+5;A kör;Gore Verbinski;2002.10.18;421;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+5;A kör;Gore Verbinski;2002.10.18;421;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+5;A kör;Gore Verbinski;2002.10.18;421;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+6;Viharsziget;Martin Scorsese;2010.02.13;562;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+6;Viharsziget;Martin Scorsese;2010.02.13;562;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+7;A tégla;Martin Scorsese;2006.10.06;124;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+7;A tégla;Martin Scorsese;2006.10.06;124;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+7;A tégla;Martin Scorsese;2006.10.06;124;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+7;A tégla;Martin Scorsese;2006.10.06;124;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+7;A tégla;Martin Scorsese;2006.10.06;124;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+7;A tégla;Martin Scorsese;2006.10.06;124;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+7;A tégla;Martin Scorsese;2006.10.06;124;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+7;A tégla;Martin Scorsese;2006.10.06;124;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+7;A tégla;Martin Scorsese;2006.10.06;124;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+7;A tégla;Martin Scorsese;2006.10.06;124;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+9;Isten városa; Fernando Meirelles;2003.03.13;268;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+9;Isten városa; Fernando Meirelles;2003.03.13;268;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Varga Bence;+36309287524;Dunaújváros, Attila utca 3;2003.04.01
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Dujci Bárci;+36308726537;Sopron, Faragó utca 12;2010.03.26
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Nincsláb Botond;+36708175633;Selmecbánya, Hajdú utca 2;1735.06.22
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Bakos Pál Inka;+36708242069;Miskolc, Lopótök utca 11;2002.08.17
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;László László;+36307265293;Budapest, Zebra utca 24/A;2001.05.25
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Beba Veczszionosz;+36302867623;Szeged, Körmend út 6;2001.07.08
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Feliznavi Dávid;+36201164228;Nyírbátor, Pék út 34;2008.12.01
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Zakariás Tasziló;+36308275645;Tatabánya, Kert utca 8;1996.09.12
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Földesiné Cserepes Virág;+36208774424;Pécs, Gödör köz 7;1969.06.09
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;Húsvét Eszter;+36705733410;Hajdúnánás, Liliom utca 43;2003.07.22
