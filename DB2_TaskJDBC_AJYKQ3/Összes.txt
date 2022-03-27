@@ -1,0 +1,10 @@
+1;Harry Potter és a bölcsek köve;Chris Columbus;2001.12.16;753;null;null;null;null
+2;A Gyûrûk Ura: A Gyûrû Szövetsége;Peter Jackson;2001.12.19;824;null;null;null;null
+3;Eredet;Christopher Nolan;2010.07.16;984;null;null;null;null
+4;Csillagok között;Christopher Nolan;2014.10.26;532;null;null;null;null
+5;A kör;Gore Verbinski;2002.10.18;421;null;null;null;null
+6;Viharsziget;Martin Scorsese;2010.02.13;562;null;null;null;null
+7;A tégla;Martin Scorsese;2006.10.06;124;null;null;null;null
+8;Ponyvaregény;Quentin Tarantino;1994.10.14;531;null;null;null;null
+9;Isten városa; Fernando Meirelles;2003.03.13;268;null;null;null;null
+10;Így neveld a sárkányodat;Chris Sanders;2010.03.25;430;null;null;null;null
