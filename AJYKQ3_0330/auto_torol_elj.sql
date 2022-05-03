@@ -1,0 +1,7 @@
+CREATE OR REPLACE PROCEDURE torol IS
+
+BEGIN
+
+    DELETE FROM autok WHERE kor > 5;
+
+END;
