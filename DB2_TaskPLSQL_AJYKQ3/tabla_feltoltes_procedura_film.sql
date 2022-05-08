@@ -22,3 +22,5 @@ EXCEPTION
 
 	WHEN PERROR THEN
 	dbms_output.put_line('A filmid, filmcim, rendezo és az mdatum nem lehetnek 0 illetve üresek!');
+
+END;
