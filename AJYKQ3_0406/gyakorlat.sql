@@ -20,6 +20,7 @@ COMMIT;
 DBMS_OUTPUT.PUT_LINE('Procedure sikeresen létrehozva!')
 
 
+BEGIN
 
 ---3. feladat
 
@@ -35,4 +36,5 @@ insert into auto values ('UFF666', 'Audi TT', 'Fekete', 4, 7500000);
 insert into auto values ('ABC124', 'Fiat', 'Piros', 3, 18000000);
 
 
-END
+END;
+

@@ -1,4 +1,5 @@
 BEGIN
+
 DBMS_SCHEDULER.CREATE_JOB (
  job_name => 'vasarlas_job',
  job_type => 'STORED_PROCEDURE',
@@ -7,4 +8,5 @@ DBMS_SCHEDULER.CREATE_JOB (
  enabled => true,
  repeat_interval => 'FREQ=MINUTELY; INTERVAL=1',
  comments => 'Vasarlas db');
+ 
 END;
